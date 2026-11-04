@@ -1,0 +1,7 @@
+# Arquivos grandes que NÃO vão para o GitHub (baixe de novo seguindo o LEIA-ME.md)
+modelos/
+sd-cpp/
+sd-cpp-vulkan/
+
+# Imagens geradas
+imagens/
